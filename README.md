@@ -22,8 +22,8 @@ A Flutter app that fetches and displays articles from JSONPlaceholder API with s
 
 1. **Clone the repo**:
 ```bash
-git clone https://github.com/your-repo/flutter_articles_app.git
-cd flutter_articles_app
+git clone https://github.com/Samarth-Pandey/Article-.git
+cd Article-
 ```
 
 2. **Install dependencies**:
